@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SD Acelerômetro</string>
+    <string name="TituloHome">Sistemas Distribuídos
+        (Comunicação por Sockets)</string>
+    <string name="SubTituloHome">Alarme com Acelerômetro</string>
+
+</resources>
